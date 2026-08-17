@@ -1,0 +1,61 @@
+Excel for Data Analysis learning form YouTube and creating projects.
+Note: Try to use shortcuts in the projects and tutorial which will help to manage and complete the task and learn at same time.
+Intro to data analysis
+1.Converting the data set into table for analysis with proper header of the columns as they are the keys as they represent the field we want to analysis.
+2.Unique labels which needs to be different.
+3.Complete records no blank data in the table as it won’t be able to analysis the data using count blank function in the excel by selecting all.
+4.Proper type of format of the columns for better overview.
+5.Also have the table formatting options to have the formatting according to your needs and can help in multiple sorts of analysis making it easier for us to get the basic ideas of the dataset. 
+6.Use shortcuts to maximise the output and save time.
+7.Using different functions to analysis the data sort, Filter, Total row. 
+8.Sorting the function and adding the condition in it to make it more efficient and adding custom commands too.
+9.Filter tool for simple types of operation and using the more filters to get a specific data and logic operator will pop up as per your use case you are doing operations at.
+
+Conditional Formatting 
+1.selecting the range.
+2.Choose your formatting using the highlighting the particular data for analysis and proper condition to represent the visual in-order to have an overview. 
+3.Apply condition accordingly as per the requirements for analysis.
+
+IF Function
+1.Also go to formula tabs in the ribbon in order to have a conditional tab open till you are good in writing the formula on cell directly 
+2. Also check for the reference which are of two types relative and absolute must know this function of the cell as it makes mistake will moving the answer 
+
+Database Function
+1.SUMIF function that will have retrieved the particular function with their range and get the output accordingly 
+2.LOOKUP we can use IF which includes all if function and its quite easy for the range you want and the output for the particular things you want and selecting the criteria and then also select the last condition what you want and then enter and then it’s done depending upon the condition you want to have the output off
+3.You just need to have the knowledge of the function that needs to be in the output or what is asked which will make it easier for you to get the output
+
+Charts
+1.Alt + F1 is the shortcut to get the charts 
+2.Use recommended charts which would provide the best charts to visualise or you can use whatever you want.
+3.And you can also format the charts accordingly colours, formatting and all other updates to make it more appealing.
+4.There are many other formatting options too 
+5. All the data are linked to the charts so as the data is updated the charts shows the updates accordingly 
+
+
+Sparklines
+1.Trend Analysis this helps to understand the patterns
+2.Lines helps to visualise this things in-order to check the induvial reporting can also be done in power bi dashboard using KPIs cards too like trend.
+3.Can be visualise using other types like win/loss or columns and others too.
+
+Data
+1.Here we scan and enhance the data in-order to answer the questions about the data given.
+2.How to analyse the quickly using ctrl + Q and other options like tables, pivot tables
+
+Pivot tables 
+1.Putting the data’s in the rows and columns using this function allow us to create a custom summary of the data in the sheer.
+2.Where editing can be done in the column in order to create a meaningful insight 
+3.Also customization can be done too in order to make it personalised or theme based as per the use case like using the filter function in the sheet
+4.Also we can add slicer to make the custom filter for the table based on the use case and also create custom charts and pattern for better understanding of the dataset.
+5.Can be used to create table just visualising the things to the requirement
+6.Checking the requites in order to get the accurate output and the data should be in the non-empty cell and data types should be according it 
+7.sorting the data also having the knowledge of the interface so it would be much easier
+8.
+
+
+
+
+
+
+
+ 
